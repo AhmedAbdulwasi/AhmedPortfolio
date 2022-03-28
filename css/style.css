@@ -176,12 +176,10 @@ section img#bird2
 
 .logod img{
 
-	float: right;
-	width: 300px;
-	height: auto;
-	margin-right: 850px;
-	margin-top:	-100px;
-	size: 100px;
+width: 200px;
+position: absolute;
+top: 45.1%;
+left: 55%;
 }
 
 #about,#projects,#contacts{
@@ -198,4 +196,12 @@ section p
 	text-align: center;	
 	line-height: 0.55em;
 	bottom: 42%;
+}
+
+.logodd img{
+
+	width: 100px;
+	position: absolute;
+	top: 53%;
+	left: 72%;
 }
